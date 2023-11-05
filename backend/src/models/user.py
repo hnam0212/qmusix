@@ -62,7 +62,7 @@ class User(db.Model):
         #     return error
         except jwt.InvalidTokenError:
             error = "Invalid token. Please log in again."
-            return error
+            return None, error
 
         user_dict = dict(
             public_id=payload["sub"],
