@@ -38,6 +38,10 @@ class User(db.Model):
     def find_by_uuid(cls, uuid):
         return cls.query.filter_by(uuid=uuid).first()
 
+    @classmethod
+    def find_by_username(cls, username):
+        return cls.query.filter_by(username=username).first()
+
     def encode_access_token(self):
         # now = ict_now()
         # token_age_h = current_app.config.get("TOKEN_EXPIRE_HOURS")

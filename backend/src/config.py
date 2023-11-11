@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 
 BASEDIR = os.path.dirname(os.path.realpath(__file__))
-INSTALLED_MODULES = ["src.app.music"]
+INSTALLED_MODULES = ["src.app.register", "src.app.music"]
 DOTENV_PATH = os.path.join(os.path.dirname(BASEDIR), ".env")
 
 load_dotenv(DOTENV_PATH)

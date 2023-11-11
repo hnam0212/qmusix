@@ -2,7 +2,7 @@ import importlib
 import importlib.util as importlib_util
 
 
-def register_blueprint(app):
+def register_blueprints(app):
     installed_modules = app.config.get("INSTALLED_MODULES")
     for module_name in installed_modules:
         # TODO: Add views to blueprint
