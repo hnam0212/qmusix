@@ -1,0 +1,692 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "c7sRQNSc1-UaYjTtdTxbGzAjxI8",
+    "nextPageToken": "CBQQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 20
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0Prx9DBmd2ByyZn7JYgQk478ibc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vPz8ftK_4bk"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-10T13:13:28Z",
+                "channelId": "UCJwp8w_Ru1q--tCEfrPIA6g",
+                "title": "Obito - Đánh Đổi ft. MCK",
+                "description": "Obito - Đánh Đổi ft. MCK Download/Stream \"Đánh Đổi\" Album: https://Obito.lnk.to/-DD Composer: Obito, MCK Music Producer: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vPz8ftK_4bk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vPz8ftK_4bk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vPz8ftK_4bk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Obito Official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-10T13:13:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qEH8wXU5A3JnSa6E9kFfdGdv0Ik",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mbEZ_9dhM_Y"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-01T19:40:45Z",
+                "channelId": "UC8EB7c0E_TS4tpTQwMtv6fw",
+                "title": "2h - MCK",
+                "description": "2h - MCK #mck #nger #2h Đặc biệt cảm ơn đến đội phản ứng nhanh Phùng Đức Minh Visualizer by Khang Nguyễn & ruoclon.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mbEZ_9dhM_Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mbEZ_9dhM_Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mbEZ_9dhM_Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MCK // Nger",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-01T19:40:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RT6OU4aTpm0G19ws5zJ0I9iwirw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dz6xe0xXqYE"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-02T13:14:12Z",
+                "channelId": "UC8EB7c0E_TS4tpTQwMtv6fw",
+                "title": "14. Anh Đã Ổn Hơn - RPT MCK | &quot;99%&quot; the album",
+                "description": "14. Anh Đã Ổn Hơn - RPT MCK | \"99%\" the album #anhdaonhon #mck #99% Executive Producers: RPT MCK & LOPE PHẠM ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dz6xe0xXqYE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dz6xe0xXqYE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dz6xe0xXqYE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MCK // Nger",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-02T13:14:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J3Nsf8iFu-MZw9vCzErsgCrA-KE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "L_z9YHX5ous"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-15T08:38:04Z",
+                "channelId": "UC8EB7c0E_TS4tpTQwMtv6fw",
+                "title": "Nghe như tình yêu - MCK remixx prod. By Kewtiie",
+                "description": "Nghe như tình yêu - MCK remixx prod. By Kewtiie #nghenhutinhyeu #mck #hieuthuhai -------------------- lyric: lỡ nhìn thấy em cười ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L_z9YHX5ous/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L_z9YHX5ous/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L_z9YHX5ous/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MCK // Nger",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-15T08:38:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "h3aXpP7Su2IanVl5Rq-pL6fPRn4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "U0Vr1zotKIo"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-22T19:21:56Z",
+                "channelId": "UC8EB7c0E_TS4tpTQwMtv6fw",
+                "title": "RPT MCK - TẠI VÌ SAO | Official Music Video",
+                "description": "Stream \"Tại Vì Sao\" tại: https://cdsl.lnk.to/TaiViSao -------------------- Subscribe to my channel: https://metub.net/rptmck Follow MCK: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U0Vr1zotKIo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U0Vr1zotKIo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U0Vr1zotKIo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MCK // Nger",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-22T19:21:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "s6fOe0cDHtwJwiha4Md7VDf_4-4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6fzH7a3XQW0"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-02T13:07:09Z",
+                "channelId": "UC8EB7c0E_TS4tpTQwMtv6fw",
+                "title": "07. Thôi Em Đừng Đi - RPT MCK ( ft. Trung Trần ) | &quot; 99% &quot; the album",
+                "description": "07. Thôi Em Đừng Đi - RPT MCK ( ft. Trung Trần ) | \" 99% \" the album #thoiemdungdi #mck #99% #trungtran Executive Producers: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6fzH7a3XQW0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6fzH7a3XQW0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6fzH7a3XQW0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MCK // Nger",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-02T13:07:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sW5NsnX_u-2gsf0EsiMOYgbrs5I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kJw-XWgfPm8"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-22T02:12:13Z",
+                "channelId": "UC8EB7c0E_TS4tpTQwMtv6fw",
+                "title": "SODA - MCK prod.GC",
+                "description": "SODA - MCK prod.GC ae nào làm hộ con CC phát lyric đây U got me feelin high like im drinkin soda Làn da của em thì ooh Bakin ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kJw-XWgfPm8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kJw-XWgfPm8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kJw-XWgfPm8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MCK // Nger",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-22T02:12:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fnBYIiXFIc_b9725Qy4eD_jEj8A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5WkwBKu1le0"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-02T13:06:11Z",
+                "channelId": "UC8EB7c0E_TS4tpTQwMtv6fw",
+                "title": "06. Chỉ Một Đêm Nữa Thôi - RPT MCK ( ft. tlinh ) | &quot; 99% &quot; the album",
+                "description": "06. Chỉ Một Đêm Nữa Thôi - RPT MCK ( ft. tlinh ) | \" 99% \" the album Executive Producers: RPT MCK & LOPE PHẠM Album ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5WkwBKu1le0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5WkwBKu1le0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5WkwBKu1le0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MCK // Nger",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-02T13:06:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dOvFrL1xmNjoLBj-2LIYDCfOmxo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "I_ptF2Dx4Ck"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-19T21:00:10Z",
+                "channelId": "UC5HFz9pznAOjZLjg4S0DIkQ",
+                "title": "PRESENÇA VIP (LEOZERA) MC K.K",
+                "description": "Inscreva-se no canal e fique por dentro das novidades! Conecte-se comigo ▻ https://linktr.ee/LeoZeraa. Artista: MC K.K Música: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I_ptF2Dx4Ck/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I_ptF2Dx4Ck/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I_ptF2Dx4Ck/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LeoZera no Beat",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-19T21:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SJJ3eeNPPPnfL8Ss7x21pPAWfpg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IVr1d084nLg"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-02T13:10:10Z",
+                "channelId": "UC8EB7c0E_TS4tpTQwMtv6fw",
+                "title": "10. Show Me Love - RPT MCK | &quot; 99% &quot; the album",
+                "description": "10. Show Me Love - RPT MCK | \" 99% \" the album #mck #showmelove #99% Executive Producers: RPT MCK & LOPE PHẠM ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IVr1d084nLg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IVr1d084nLg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IVr1d084nLg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MCK // Nger",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-02T13:10:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VWFrv3xk6RKuwQZahqGFcol4m1A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Yw9Ra2UiVLw"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-24T13:00:29Z",
+                "channelId": "UC8EB7c0E_TS4tpTQwMtv6fw",
+                "title": "Chìm Sâu - RPT MCK (feat. Trung Trần) | Official Lyrics Video",
+                "description": "Stream \"Chìm Sâu\" trong Album \"99%\" ngay: https://rptmck.lnk.to/99Percent \"Anh chỉ mong em hạnh phúc trên cuộc đời kể cả khi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Yw9Ra2UiVLw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Yw9Ra2UiVLw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Yw9Ra2UiVLw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MCK // Nger",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-24T13:00:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DHpz7nLn2rWjqLj0oR_tAelHWxA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IE02GRUWnOw"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-02T13:11:08Z",
+                "channelId": "UC8EB7c0E_TS4tpTQwMtv6fw",
+                "title": "11.Tại Vì Sao - RPT MCK | &quot;99%&quot; the album",
+                "description": "11.Tại Vì Sao - RPT MCK | \"99%\" the album #taivisao #mck #99% Executive Producers: RPT MCK & LOPE PHẠM Album ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IE02GRUWnOw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IE02GRUWnOw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IE02GRUWnOw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MCK // Nger",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-02T13:11:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "D6V_xKE8l0l2hp09pmuab9Ff4LA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1jTSZWRFEB8"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-02T13:03:10Z",
+                "channelId": "UC8EB7c0E_TS4tpTQwMtv6fw",
+                "title": "03. Suit &amp; Tie - RPT MCK ( ft. Hoàng Tôn ) | &quot; 99% &quot; the album",
+                "description": "03. Suit & Tie - RPT MCK ( ft. Hoàng Tôn ) | \" 99% \" the album #mck #hoangton #99% Executive Producers: RPT MCK & LOPE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1jTSZWRFEB8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1jTSZWRFEB8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1jTSZWRFEB8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MCK // Nger",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-02T13:03:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fuYQSL-CjVi-tf1LGdX3T_an-OQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nfuhAoLWYu0"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-05T14:32:19Z",
+                "channelId": "UCBbQBoCy7dRJ7cUO3KB5nXg",
+                "title": "[Playlist] Những Ca Khúc Hay Nhất Của RPT MCK // Nger",
+                "description": "Follow Undermoon : ☘ Subscribe: /undermoonchill ☘ Instagram: https://www.instagram.com/ivan_works_... ☘ Facebook: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nfuhAoLWYu0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nfuhAoLWYu0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nfuhAoLWYu0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UnderMoon",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-05T14:32:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "j6mm3IrDC-jBGpIb8t9FoE-U21M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "M7UlJ0m-yy4"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-02T13:04:09Z",
+                "channelId": "UC8EB7c0E_TS4tpTQwMtv6fw",
+                "title": "04. Va Vào Giai Điệu Này - RPT MCK | &quot;99%&quot; the album",
+                "description": "04. Va Vào Giai Điệu Này - RPT MCK | \"99%\" the album #vavaogiaidieunay #mck #99% Executive Producers: RPT MCK & LOPE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M7UlJ0m-yy4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M7UlJ0m-yy4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M7UlJ0m-yy4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MCK // Nger",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-02T13:04:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YqyFBChbnPlWAJvoswBJaZ-na0k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "R89xzMYIPbQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-09T22:12:56Z",
+                "channelId": "UC1KR2FTXJcuI6rGAPEw2D0w",
+                "title": "MCK | NHỮNG THÀNH PHỐ MƠ MÀNG - AUTUMN 2023",
+                "description": "Video này được thực hiện với mục đích lưu giữ kỷ niệm, hoàn toàn không dùng vào mục đích kiếm tiền hay gây lợi nhuận cho cá ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R89xzMYIPbQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R89xzMYIPbQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R89xzMYIPbQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ivan da Vodka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-09T22:12:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "50-ItkqfD2rgsB0fFMuCyZjyY54",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1669RocawV4"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-06T19:19:46Z",
+                "channelId": "UCX5eMNu6patBhO5oSzPYVlw",
+                "title": "Em Ơi ! Amor Vincit Omnia - MCK ft. pk rmx",
+                "description": "Em Ơi ! Amor Vincit Omnia - MCK ft. pk rmx Link gốc: - https://soundcloud.com/hoanglongnger/latin-dom-1 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1669RocawV4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1669RocawV4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1669RocawV4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NghiaEditor",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-06T19:19:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FrWXVVKTPs1t4ZHUTI8zt_UYcls",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "q3HSr-Hfbag"
+            },
+            "snippet": {
+                "publishedAt": "2019-11-21T13:00:11Z",
+                "channelId": "UC8EB7c0E_TS4tpTQwMtv6fw",
+                "title": "Nger a.k.a MCK - SUY  | Official Lyric Video",
+                "description": "Nger a.k.a MCK - SUY | Official Lyric Video Suy! Nghe \"Suy\" tại: Apple Music: https://apple.co/2vMqizF Spotify: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q3HSr-Hfbag/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q3HSr-Hfbag/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q3HSr-Hfbag/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MCK // Nger",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-11-21T13:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "orGEXlvc0VBRZ2Ex_pbhw3NvMog",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hyPbk_EjCKU"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-02T13:05:08Z",
+                "channelId": "UC8EB7c0E_TS4tpTQwMtv6fw",
+                "title": "05. Tối Nay Ta Đi Đâu Nhờ - RPT MCK (Remix) | &quot;99%&quot; the album",
+                "description": "05. Tối Nay Ta Đi Đâu Nhờ - RPT MCK | \"99%\" the album #toinaydidaunho #mck #99% Executive Producers: RPT MCK & LOPE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hyPbk_EjCKU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hyPbk_EjCKU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hyPbk_EjCKU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MCK // Nger",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-02T13:05:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NZGxOGqXBcT-q4Uk1ECX35RMJ8M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Kl2XtkZ2Vfs"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-22T21:08:26Z",
+                "channelId": "UC8EB7c0E_TS4tpTQwMtv6fw",
+                "title": "RPT MCK - Phong Cách | VIDEO MUSIC (unofficial)",
+                "description": "RPT MCK - Phong Cách | VIDEO MUSIC (unofficial) Prod: LOPE PHAM, Jxnny mixing and mastering: CU CHINH director: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kl2XtkZ2Vfs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kl2XtkZ2Vfs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kl2XtkZ2Vfs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MCK // Nger",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-22T21:08:26Z"
+            }
+        }
+    ]
+}

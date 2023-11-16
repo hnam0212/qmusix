@@ -18,9 +18,3 @@ def create_app(config: Config = DevConfig):
     # register_jwt_manager(app)
     register_error_handlers(app)
     return app
-
-
-# app = create_app(DevConfig)
-
-# if __name__ == "__main__":
-#     app.run()
